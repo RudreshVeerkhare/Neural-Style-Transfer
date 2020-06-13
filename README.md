@@ -1,2 +1,2 @@
 # Neural-Style-Transfer
-Creating amazing artwork using deeplearing
+Creating amazing artwork using deep learning
